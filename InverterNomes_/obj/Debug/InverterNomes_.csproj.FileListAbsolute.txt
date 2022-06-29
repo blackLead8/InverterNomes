@@ -1,0 +1,6 @@
+C:\Users\Christopher\Desktop\InverterNomes_\InverterNomes_\bin\Debug\InverterNomes_.exe.config
+C:\Users\Christopher\Desktop\InverterNomes_\InverterNomes_\bin\Debug\InverterNomes_.exe
+C:\Users\Christopher\Desktop\InverterNomes_\InverterNomes_\bin\Debug\InverterNomes_.pdb
+C:\Users\Christopher\Desktop\InverterNomes_\InverterNomes_\obj\Debug\InverterNomes_.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\InverterNomes_\InverterNomes_\obj\Debug\InverterNomes_.exe
+C:\Users\Christopher\Desktop\InverterNomes_\InverterNomes_\obj\Debug\InverterNomes_.pdb
